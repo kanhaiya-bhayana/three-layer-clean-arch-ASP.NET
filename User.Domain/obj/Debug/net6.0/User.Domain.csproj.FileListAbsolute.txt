@@ -1,0 +1,12 @@
+C:\Users\kanhaiya.bhayana\source\repos\C#_tuts\CA\User.Domain\User.Domain\bin\Debug\net6.0\User.Domain.deps.json
+C:\Users\kanhaiya.bhayana\source\repos\C#_tuts\CA\User.Domain\User.Domain\bin\Debug\net6.0\User.Domain.dll
+C:\Users\kanhaiya.bhayana\source\repos\C#_tuts\CA\User.Domain\User.Domain\bin\Debug\net6.0\User.Domain.pdb
+C:\Users\kanhaiya.bhayana\source\repos\C#_tuts\CA\User.Domain\User.Domain\obj\Debug\net6.0\User.Domain.csproj.AssemblyReference.cache
+C:\Users\kanhaiya.bhayana\source\repos\C#_tuts\CA\User.Domain\User.Domain\obj\Debug\net6.0\User.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanhaiya.bhayana\source\repos\C#_tuts\CA\User.Domain\User.Domain\obj\Debug\net6.0\User.Domain.AssemblyInfoInputs.cache
+C:\Users\kanhaiya.bhayana\source\repos\C#_tuts\CA\User.Domain\User.Domain\obj\Debug\net6.0\User.Domain.AssemblyInfo.cs
+C:\Users\kanhaiya.bhayana\source\repos\C#_tuts\CA\User.Domain\User.Domain\obj\Debug\net6.0\User.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kanhaiya.bhayana\source\repos\C#_tuts\CA\User.Domain\User.Domain\obj\Debug\net6.0\User.Domain.dll
+C:\Users\kanhaiya.bhayana\source\repos\C#_tuts\CA\User.Domain\User.Domain\obj\Debug\net6.0\refint\User.Domain.dll
+C:\Users\kanhaiya.bhayana\source\repos\C#_tuts\CA\User.Domain\User.Domain\obj\Debug\net6.0\User.Domain.pdb
+C:\Users\kanhaiya.bhayana\source\repos\C#_tuts\CA\User.Domain\User.Domain\obj\Debug\net6.0\ref\User.Domain.dll
